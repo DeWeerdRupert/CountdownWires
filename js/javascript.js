@@ -25,7 +25,7 @@ function main() {
                   document.getElementById("counter").innerHTML = "KABOOM";
             }
 
-      }, 1000); /* END var x = setInterval */
+      }, 100); /* END var x = setInterval */
 
       // Dismantling bomb
       document.getElementById('dismantle').onclick = function() {
